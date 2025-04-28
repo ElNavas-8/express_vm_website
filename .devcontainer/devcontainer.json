@@ -5,6 +5,7 @@
   "fowardPorts": [3000],
   "customizations": {
     "vscode": {
-      "extensions": ["dbeaumer.vscode.eslint"],
+      "extensions": ["dbeaumer.vscode.eslint"]
+    }
   }
 }

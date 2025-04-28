@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.send('¡Hola desde la nube con Express!');
 });
 
-app.listen(por, () => {
+app.listen(port, () => {
   console.log('Servidor escuchando en http://localhost${port}');
 });
         
