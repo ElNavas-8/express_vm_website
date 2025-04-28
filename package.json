@@ -1,0 +1,12 @@
+{
+  "name": "codespace-lab-js",
+  "version": "1.0.0",
+  "description": "Laboratorio de TIC para usar Github Codesapces y levantar un sitio web sencillo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
